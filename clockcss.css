@@ -3,7 +3,7 @@ body{background-color:#1a83de;color:white;}
 		#time{font-size: 400%;}
 		.container1{position: relative;width:49%;float:right;}
 		.container2{position: relative;width:49%;float:left;}
-#analog{position: relative;height: 30vw;width: 30vw;background: url('clockused.png') no-repeat;background-size: 100%;margin-left: 20%;}		
+#analog{position: relative;height: 30vw;width: 30vw;background: url('https://user-images.githubusercontent.com/85051440/122667776-348e2400-d1d2-11eb-9b64-b9f6ce85e3cf.png') no-repeat;background-size: 100%;margin-left: 20%;}		
 #hour,#minute,#second{position: absolute;background: white;border-radius: 20px;}
 #hour{   height: 25%;
     width: 3%;
