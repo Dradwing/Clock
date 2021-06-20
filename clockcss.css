@@ -7,14 +7,14 @@ body{background-color:#1a83de;color:white;}
 #hour,#minute,#second{position: absolute;background: white;border-radius: 20px;}
 #hour{   height: 25%;
     width: 3%;
-    top: 27%;
+    top: 26%;
     left: 48.8%;
 
 transform-origin: bottom;}
 #minute{    height: 30%;
     width: 2%;
     top: 21.5%;
-    left: 47.8%;
+    left: 48.8%;
     
     transform-origin: bottom;
    
